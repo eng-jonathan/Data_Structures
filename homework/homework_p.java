@@ -7,7 +7,7 @@
 // The implementation of BST that we studied in class is attached at the end of this homework
 //  assignment.
 
-// You should change the class name homework_P.
+// You should change the class name homework_p.
 // You should only make changes inside this class.
 // You do not need any more than 40 lines of code in the class.
 // After you have tested your work on mars (as well as in your development environment)
@@ -18,9 +18,9 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class homework_P<K extends Comparable<K>> extends BST<K> implements TwoWayPriorityQueue<K> {
+public class homework_p<K extends Comparable<K>> extends BST<K> implements TwoWayPriorityQueue<K> {
   public static void main(String args[]) throws Exception {
-    homework_P<Integer> t = new homework_P<Integer>();
+    homework_p<Integer> t = new homework_p<Integer>();
     t.insert(3);
     t.insert(1);
     t.insert(4);

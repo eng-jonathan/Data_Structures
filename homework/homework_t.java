@@ -30,7 +30,7 @@
 // You do not need to check that an input String from getInput makes sense as an expression.
 // If an illegal expression is encountered, your program can behave in any way that is convenient for you.
 
-// You should change the class name homework_T
+// You should change the class name homework_t
 // You should only make changes inside this class.
 // You do not need any more than 100 lines of code in the class.
 // After you have tested your work on mars (as well as in your development environment)
@@ -55,10 +55,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class homework_T extends ExpressionTree {
+public class homework_t extends ExpressionTree {
 
 	   public static void main(String args[]) {
-	      homework_T y = new homework_T("5 + 6 * 7");
+	      homework_t y = new homework_t("5 + 6 * 7");
 	      Utility.print(y);
 	      y = new homework_T(Utility.getInput());
 	      Utility.print(y);
@@ -77,7 +77,7 @@ public class homework_T extends ExpressionTree {
 		   return "(" + fullParenHelper(node.left) + node.toString() + fullParenHelper(node.right) + ")";
 	   }
 
-	   public homework_T(String s) {
+	   public homework_t(String s) {
 	      super();
 	      try {
 	    	  setRoot(populateTree(s));

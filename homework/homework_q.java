@@ -6,8 +6,8 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class homework_Q<E> extends OpenHashTable<E> {
-  public  homework_Q(int cap, E ghostEntry) {
+public class homework_q<E> extends OpenHashTable<E> {
+  public  homework_q(int cap, E ghostEntry) {
     super(cap, ghostEntry);
   }
   
