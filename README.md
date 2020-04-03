@@ -18,3 +18,6 @@ Course Topics:
 * Binary Search Trees, AVL Trees
 * Sorting
 * Graphs
+
+Homework:
+* [homework_t](https://github.com/eng-jonathan/QC_CSCI_313_DataStructures/blob/master/homework/homework_t.java): Process mathematical expressions like (1+2)*(3+4) that are entered as strings by making a class that extends the abstract class ExpressionTree. The onstructor should turn an input expression into a binary (expression) tree that can then be printed in Prefix, Postfix, or Fully Parentehsised form.
