@@ -1,4 +1,3 @@
-# QC_CSCI_313_DataStructures
 ## Queens College - CSCI 313: Data Structures
 
 Shortcuts: 
