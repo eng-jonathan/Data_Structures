@@ -4,7 +4,7 @@
 Shortcuts: 
 [Homework](https://github.com/eng-jonathan/QC_CSCI_313_DataStructures/tree/master/homework) |
 [Syllabus](https://github.com/eng-jonathan/QC_CSCI_313_DataStructures/blob/master/syllabus/syllabus_csci313.pdf)
-
+___
 Course Topics:
 * Review of Java programming
 * Linked Lists
@@ -18,7 +18,7 @@ Course Topics:
 * Binary Search Trees, AVL Trees
 * Sorting
 * Graphs
-
+___
 [Homework](https://github.com/eng-jonathan/QC_CSCI_313_DataStructures/tree/master/homework):
 * [homework_t](https://github.com/eng-jonathan/QC_CSCI_313_DataStructures/blob/master/homework/homework_t.java): Process mathematical expressions like (1+2)*(3+4) that are entered as strings by making a class that extends the abstract class ExpressionTree. The onstructor should turn an input expression into a binary (expression) tree that can then be printed in Prefix, Postfix, or Fully Parentehsised form.
 * [homework_q](https://github.com/eng-jonathan/QC_CSCI_313_DataStructures/blob/master/homework/homework_q.java): Override exactly one method of the class OpenHashTable so that the new class implements Quadratic Probling
